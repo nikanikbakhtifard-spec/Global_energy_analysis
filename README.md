@@ -71,7 +71,4 @@ Key SQL queries include:
 - presentation/ – project PPT
 
 
-## 👤 Author
-**Vishal Sanjay Raut**  
-🔗 LinkedIn: https://www.linkedin.com/in/vishalraut  
-🔗 GitHub: https://github.com/vishalraut
+
